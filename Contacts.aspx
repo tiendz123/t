@@ -46,7 +46,7 @@ p {
         
         <!-- content -->
         <div>
-        	<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1249.6327285753175!2d105.76455570799816!3d21.035470766961335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x313454b92bd71f9b%3A0xb79f074fe43dcfc1!2zRlBUIFBvbHl0ZWNobmljIChDxqEgc-G7nyBIw6AgTuG7mWkp!5e1!3m2!1svi!2s!4v1497368454302" width="400" height="350" frameborder="0" style="border:0" allowfullscreen></iframe></center>
+        	<center><iframe src="https://www.google.com/maps/place/741-743+Ho%C3%A0ng+Hoa+Th%C3%A1m/@21.04747,105.8041693,17z/data=!3m1!4b1!4m5!3m4!1s0x3135ab18121fd6e1:0xea0cb96634de6f8c!8m2!3d21.04747!4d105.806358" width="400" height="350" frameborder="0" style="border:0" allowfullscreen></iframe></center>
         </div>
         <div style="width:300px; margin-left:110px">
         	<p>Địa chỉ:FPT Polytechnic, Hà Nội, Việt Nam</p>
